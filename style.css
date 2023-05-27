@@ -365,7 +365,7 @@ body {
 }
 .el:nth-child(5) .el__bg:before {
   transition-delay: 0.4s;
-  background-image: url("5.png");
+  background-image: url("aa.png");
 }
 .el:hover .el__bg:after {
   opacity: 0;

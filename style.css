@@ -7,19 +7,19 @@
 footer {
   text-align: center;
   padding: 3px;
-  background-color: #eb6b6b;
+  background-color: #FEA1A1;
   color: white;
 }
 
 body {
-  background: #ff9191;
+  background: #ECCDB4;
   font-family: 'georgia';
 }
 
 .company {
   text-align: center;
   font-size: 25px;
-  background-color: #eb6b6b;
+  background-color: #FEA1A1;
 }
 
 

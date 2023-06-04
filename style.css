@@ -19,8 +19,14 @@ body {
 .company {
   text-align: center;
   font-size: 25px;
+  background-color: #eb6b6b;
 }
 
+h1 {
+  
+  padding-bottom: 30px;
+    
+}
 .company img {
   float: center;
   width: 100px;

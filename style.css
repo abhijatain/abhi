@@ -7,12 +7,12 @@
 footer {
   text-align: center;
   padding: 3px;
-  background-color: rgb(0, 0, 0);
+  background-color: #eb6b6b;
   color: white;
 }
 
 body {
-  background: #ffffff;
+  background: #ff9191;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
@@ -297,7 +297,7 @@ body {
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url("aa.png");
+  background-image: url("112.png");
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -373,7 +373,7 @@ body {
 }
 .el:nth-child(5) .el__bg:before {
   transition-delay: 0.4s;
-  background-image: url("aa.png");
+  background-image: url("111.png");
 }
 .el:hover .el__bg:after {
   opacity: 0;
